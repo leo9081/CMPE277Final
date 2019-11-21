@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spring_server">http://34.67.106.136/seers/</string>
+    <string name="nginx_server">http://tamedogisnotdog.com/snowtools/external/RestServer/v1/</string>
+</resources>
